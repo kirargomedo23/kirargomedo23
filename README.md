@@ -1,11 +1,9 @@
 
 ### <div align="center">Soy Kir Argomedo, un desarrollador Full Stack👨‍💻 trabajando desde el 2020 🚀</div>  
   
-
-- 🔭 Actualmente estoy trabajando en On Bot Go!.  
   
 
-- 🌱 Actualmente estoy aprendiendo Python.  
+- 🌱 Actualmente estoy aprendiendo Python y ReactJS.  
   
 
 - ❓ Conocimientos en el stack MEAN.  
